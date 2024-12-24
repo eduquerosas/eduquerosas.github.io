@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" src="https://eduquerosas.github.io/images/profile_2.png" alt="Photo" style="width: 220px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+<img align="right" src="https://eduquerosas.github.io/images/profile_2.png" alt="Photo" style="width: 230px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
 I am a PhD student in Economics and Management at the [London School of Economics and Political Science](https://www.lse.ac.uk){:target="_blank" rel="noopener"}. I hold a Bachelor’s and a Master’s degree in Economics at the [University of Chile](https://econ.uchile.cl/){:target="_blank" rel="noopener"}. 
 

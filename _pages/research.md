@@ -6,13 +6,14 @@ author_profile: true
 
 ## Working Papers
 
-  <style>
+<style>
   .presentation-links a {
     color: black;
     text-decoration: none;
   }
 
   .presentation-links a:hover {
+    color: black;
     text-decoration: underline;
   }
 </style>

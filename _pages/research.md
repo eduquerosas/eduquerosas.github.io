@@ -6,6 +6,17 @@ author_profile: true
 
 ## Working Papers
 
+  <style>
+  .presentation-links a {
+    color: black;
+    text-decoration: none;
+  }
+
+  .presentation-links a:hover {
+    text-decoration: underline;
+  }
+</style>
+
 * [Local Non-Bossiness](../files/research/Locally-non-bossiness/Locally_non_bossy.pdf){:target="_blank" rel="noopener"} <br> 
 with [Juan Sebastián Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank" rel="noopener"} and [Juan Pablo Torres-Martínez](https://econ.uchile.cl/es/academico/jutorres){:target="_blank" rel="noopener"} <br> 
   <button onclick="myFunction('abstract_1')" class="btn--research">Abstract</button> [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4852188){: .btn--research}{:target="_blank"} 
@@ -15,8 +26,10 @@ with [Juan Sebastián Pereyra](https://sites.google.com/site/juanspereyrabarreir
 * [The Strong Effects of Weak Externalities on School Choice](../files/research/Weak_Externalities_School_Choice/weak_externalities_school_choice.pdf){:target="_blank" rel="noopener"} <br> 
 with [Juan Pablo Torres-Martínez](https://econ.uchile.cl/es/academico/jutorres){:target="_blank" rel="noopener"} <br> 
   <button onclick="myFunction('abstract')" class="btn--research">Abstract</button> [SSRN](http://dx.doi.org/10.2139/ssrn.4276906){: .btn--research}{:target="_blank"} [Slides](../files/research/Weak_Externalities_School_Choice/slides.pdf){: .btn--research}{:target="_blank"} [Slides (spanish)](../files/research/Weak_Externalities_School_Choice/slides_esp.pdf){: .btn--research}{:target="_blank"}
-  <p id="abstract" style="display: none; text-align: justify; width: 100%;"><font size="2.5"> In classical school choice contexts there exists a centralized assignment procedure that is stable and strategy-proof: the Gale-Shapley student-optimal stable mechanism. We show that this property is not satisfied when externalities are incorporated into the model, even in scenarios in which students are primarily concerned about their own placement (weak externalities). Indeed, although weak externalities have no effects on stability, there are school choice contexts in which no stable and strategy-proof mechanism exists. Furthermore, we show that stability and strategy-proofness are compatible if and only if schools' priorities are Ergin-acyclic. This strong effect of weak externalities on incentives is related to the incompatibility between stability, strategy-proofness, and non-bossiness in classical school choice problems. </font> </p> 
-  <span style="color:Black; text-align: justify; font-size: 11px; display: inline-block; width: 100%;"> <b>Presentations:</b> <a href="https://saet2024.cl/" style="color:Black; text-decoration: none;" target="_blank" rel="noopener noreferrer">23rd Annual SAET Conference, 2024</a>; 2023 International Conference on Public Economic Theory, 2024; SECHI – Chilean Economic Society, 2023; Universidad de los Andes, Chile, 2023. </span> 
+  <p id="abstract" style="display: none; text-align: justify; width: 100%;"><font size="2.5"> In classical school choice contexts there exists a centralized assignment procedure that is stable and strategy-proof: the Gale-Shapley student-optimal stable mechanism. We show that this property is not satisfied when externalities are incorporated into the model, even in scenarios in which students are primarily concerned about their own placement (weak externalities). Indeed, although weak externalities have no effects on stability, there are school choice contexts in which no stable and strategy-proof mechanism exists. Furthermore, we show that stability and strategy-proofness are compatible if and only if schools' priorities are Ergin-acyclic. This strong effect of weak externalities on incentives is related to the incompatibility between stability, strategy-proofness, and non-bossiness in classical school choice problems. </font> </p> <span class="presentation-links" style="color:Black; text-align: justify; font-size: 11px; display: inline-block; width: 100%;">
+  <b>Presentations:</b> 
+  <a href="https://saet2024.cl/" target="_blank" rel="noopener noreferrer">23rd Annual SAET Conference, 2024</a>; <a href="https://pet2023.cl/35/default/inicio#:~:text=We%20are%20pleased%20to%20announce,economic%20papers%20will%20be%20considered." target="_blank" rel="noopener noreferrer">2023 International Conference on Public Economic Theory, 2024</a>; <a href="https://editorialexpress.com/conference/sechi2023/program/sechi2023.html" target="_blank" rel="noopener noreferrer">SECHI – Chilean Economic Society, 2023</a>; <a href="https://www.uandes.cl/sbe/" target="_blank" rel="noopener noreferrer">Universidad de los Andes, Chile, 2023</a>.
+</span>
   
 
 ## Work in Progress
